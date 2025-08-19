@@ -1,2 +1,3 @@
 # Alice_BMT
-BASH-script that shows the exact Internet time based on the terminal's system time.
+Bash script for calculating Swatch Internet Time (Beat Time, BMT) with high accuracy.
+This script relies on the value of the system clock.
